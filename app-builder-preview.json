@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Hisab",
+      "hasCanvas": false,
+      "bodyTextLen": 185,
+      "bodyTextHash": "e8de72efe1117ef30d8868ec6b4b1606d5690b0b2d9d2319a4d295164e188155",
+      "bodyTextPrefix": "Hisab Bill Admin Bills Bill Pick dishes, then create the cash me",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Hisab",
+      "hasCanvas": false,
+      "bodyTextLen": 179,
+      "bodyTextHash": "a39c64aa95ff66b17c55f2c76c6bbe2a5bb1c7d7377a7783610540d8ed8f770d",
+      "bodyTextPrefix": "Bill Pick dishes, then create the cash memo. The menu is empty N",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND NOTE: no custom public/og.jpg — the platform will serve the og.grok.me placeholder. Custom cards are the default for games of every kind (DOM board/word games included), whimsical apps, creative tools, and brand-forward pages — only plain utilities (converters, CRUD trackers, admin dashboards) keep the placeholder. If this app is not a plain utility, finish the brand-asset pass per /workspace/.grok/skills/og/SKILL.md."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
